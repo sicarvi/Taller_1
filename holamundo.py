@@ -1,5 +1,5 @@
 def holamundo():
-    pass
+    print("Buenos dias planeta tierra")
 
 if __name__ == "__main__":
     holamundo()
