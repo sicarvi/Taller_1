@@ -1,4 +1,5 @@
 def numeros():
+    print("bienvenido")
     print("1 2 3")
     print("fin")
 
